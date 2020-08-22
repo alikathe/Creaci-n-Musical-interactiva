@@ -1,0 +1,71 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 15rem;
+    background-color: black;
+    margin: 0em;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+header {
+    margin-left: 9%;
+    margin-right: 9%;
+    width: 47%;
+    margin-bottom: 5rem;
+}
+header {
+    display: block;
+}
+.todo {
+    margin-left: 9%;
+    margin-right: 9%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+    gap: 2rem;
+}
+h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    color: #FC8500;
+    margin: 2.8rem 0 0.2rem 0;
+}
+.text {
+    margin-bottom: 2.5rem;
+}
+p {
+    font-size: 16px;
+    color: white;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+element.style {
+}
+#container {
+    width: 1100px;
+    background: black;
+    margin: 0 auto;
+    text-align: left;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 0 15px;
+    font-size: 14px;
+}
+}
+.hidden {
+    display: none;
+}
+.unhidden {
+    display: block;
+}
+.ind {
+    margin-left:20px;
+}
