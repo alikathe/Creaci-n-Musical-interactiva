@@ -60,13 +60,15 @@ footer a{
     font-size: 1.3rem;
 }
 #footer{
-    float: left;
     margin-left: 50px;
     font-size: 1rem;
 }
 footer p{
     font-size: 1.2rem;
     margin-top: 10px;
+}
+footer span{
+    font-weight: bold;
 }
 .vids {
     display:inline;
